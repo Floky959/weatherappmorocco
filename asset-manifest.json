@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weatherappmorocco/static/css/main.208a5a09.css",
+    "main.js": "/weatherappmorocco/static/js/main.07e9c7ef.js",
+    "static/js/453.3f5bda53.chunk.js": "/weatherappmorocco/static/js/453.3f5bda53.chunk.js",
+    "index.html": "/weatherappmorocco/index.html",
+    "main.208a5a09.css.map": "/weatherappmorocco/static/css/main.208a5a09.css.map",
+    "main.07e9c7ef.js.map": "/weatherappmorocco/static/js/main.07e9c7ef.js.map",
+    "453.3f5bda53.chunk.js.map": "/weatherappmorocco/static/js/453.3f5bda53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208a5a09.css",
+    "static/js/main.07e9c7ef.js"
+  ]
+}
