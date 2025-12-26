@@ -59,14 +59,14 @@ npm install
 ```
 
 ### 3. Get your API key
-1. Visit [OpenWeatherMap](https://openweathermap.org/api)
+1. Visit [TMDB]((https://www.themoviedb.org/))
 2. Sign up for a free account
 3. Get your API key
 
 ### 4. Configure API key
-Replace the API key in `src/componants/Weater.jsx`:
+Replace the API key in `src/componants/api.js`:
 ```javascript
-const apiKey = 'YOUR_OPENWEATHERMAP_API_KEY_HERE';
+const apiKey = 'YOUR_TMDB_API_KEY_HERE';
 ```
 
 ### 5. Start the development server
@@ -84,37 +84,10 @@ The app will open at `http://localhost:3000`
 npm install --save-dev gh-pages
 
 # Add to package.json
-"homepage": "https://yourusername.github.io/weatherappmorocco",
+"homepage": "https://yourusername.github.io/moviesscope",
 
 # Deploy
 npm run deploy
 ```
-
-
-### Comprehensive Weather Data
-- Current temperature with "feels like"
-- Humidity and wind speed
-- Atmospheric pressure
-- Visibility distance
-- UV index and weather descriptions
-
-### Smart City Search
-- Search through 100+ Moroccan cities
-- Real-time autocomplete suggestions
-- Instant weather updates on city selection
-
-## 🔄 API Integration
-
-The app integrates with:
-- **OpenWeatherMap Current Weather API** - Real-time weather data
-- **OpenWeatherMap 5-Day Forecast API** - Extended forecasts
-- **Morocco Cities API** - Comprehensive list of Moroccan cities
-
-## 🙏 Acknowledgments
-
-- [OpenWeatherMap](https://openweathermap.org/) for weather data API
-- [Tailwind CSS](https://tailwindcss.com/) for styling framework
-- [Lucide React](https://lucide.dev/) for beautiful icons
-- [Morocco Cities API](https://github.com/mboussaid/Maroc_Regions_Villes_API) for city data
 
 ⭐ **Star this repository if you found it helpful!**
