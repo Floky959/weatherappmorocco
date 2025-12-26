@@ -84,7 +84,7 @@ The app will open at `http://localhost:3000`
 npm install --save-dev gh-pages
 
 # Add to package.json
-"homepage": "https://yourusername.github.io/weather-app-morocco",
+"homepage": "https://yourusername.github.io/weatherappmorocco",
 
 # Deploy
 npm run deploy
