@@ -4,14 +4,13 @@ A modern, responsive weather application built with React.js that provides real-
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://maamar404.github.io/weather-app-morocco/)**
+🔗 **[View Live Demo](https://ayoubmoufak.dev/weatherappmorocco/)**
 
 ## ✨ Features
 
 ### 🎨 **Modern UI/UX**
 - **Glassmorphism design** with backdrop blur effects
 - **Dynamic gradients** that change based on weather conditions
-- **Animated background elements** with floating orbs
 - **Responsive design** for all device sizes
 - **Smooth transitions** and hover effects
 
@@ -50,8 +49,8 @@ A modern, responsive weather application built with React.js that provides real-
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/maamar404/weather-app-morocco.git
-cd weather-app-morocco
+git clone https://github.com/Floky959/weatherappmorocco.git
+cd weatherappmorocco
 ```
 
 ### 2. Install dependencies
@@ -62,7 +61,7 @@ npm install
 ### 3. Get your API key
 1. Visit [OpenWeatherMap](https://openweathermap.org/api)
 2. Sign up for a free account
-3. Get your API key from the dashboard
+3. Get your API key
 
 ### 4. Configure API key
 Replace the API key in `src/componants/Weater.jsx`:
@@ -91,25 +90,6 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-## 📱 Screenshots
-
-### Desktop View
-- Modern glassmorphism design with dynamic gradients
-- Comprehensive weather dashboard
-- 5-day forecast sidebar
-
-### Mobile View
-- Fully responsive design
-- Touch-friendly interface
-- Optimized for mobile screens
-
-## 🌟 Key Features Breakdown
-
-### Dynamic Weather Backgrounds
-- **Clear weather**: Blue to teal gradient
-- **Rainy weather**: Gray to indigo gradient  
-- **Cloudy weather**: Gray to blue gradient
-- **Night mode**: Dark purple gradients
 
 ### Comprehensive Weather Data
 - Current temperature with "feels like"
@@ -130,31 +110,11 @@ The app integrates with:
 - **OpenWeatherMap 5-Day Forecast API** - Extended forecasts
 - **Morocco Cities API** - Comprehensive list of Moroccan cities
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 👨‍💻 Author
-
-**Maamar** - [GitHub Profile](https://github.com/maamar404)
-
 ## 🙏 Acknowledgments
 
 - [OpenWeatherMap](https://openweathermap.org/) for weather data API
 - [Tailwind CSS](https://tailwindcss.com/) for styling framework
 - [Lucide React](https://lucide.dev/) for beautiful icons
 - [Morocco Cities API](https://github.com/mboussaid/Maroc_Regions_Villes_API) for city data
-
-## 📧 Contact
-
-For any questions or suggestions, feel free to reach out:
-- GitHub: [@maamar404](https://github.com/maamar404)
-- Website: [https://maamar404.github.io](https://maamar404.github.io)
-
----
 
 ⭐ **Star this repository if you found it helpful!**
