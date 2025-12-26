@@ -59,14 +59,14 @@ npm install
 ```
 
 ### 3. Get your API key
-1. Visit [TMDB]((https://www.themoviedb.org/))
+1. Visit [openweathermap.org]((https://openweathermap.org/))
 2. Sign up for a free account
 3. Get your API key
 
 ### 4. Configure API key
-Replace the API key in `src/componants/api.js`:
+Replace the API key in `src/componants/Weather.jsx`:
 ```javascript
-const apiKey = 'YOUR_TMDB_API_KEY_HERE';
+const apiKey = 'YOUR_OPENWEATHER_API_KEY_HERE';
 ```
 
 ### 5. Start the development server
@@ -84,7 +84,7 @@ The app will open at `http://localhost:3000`
 npm install --save-dev gh-pages
 
 # Add to package.json
-"homepage": "https://yourusername.github.io/moviesscope",
+"homepage": "https://yourusername.github.io/weatherappmorocco",
 
 # Deploy
 npm run deploy
